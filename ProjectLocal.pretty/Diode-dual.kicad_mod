@@ -1,6 +1,6 @@
 (footprint "Diode-dual" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 62232115)
+  (tedit 62260342)
   (attr through_hole)
   (fp_text reference "D**" (at -0.0254 1.4) (layer "F.SilkS")
     (effects (font (size 0.8 0.8) (thickness 0.15)))
@@ -9,6 +9,10 @@
   (fp_text value "D" (at 0 -1.925) (layer "F.SilkS") hide
     (effects (font (size 0.8 0.8) (thickness 0.15)))
     (tstamp d0ca5fa9-f5e3-440e-9769-68b2d1ba79d6)
+  )
+  (fp_text user "${REFERENCE}" (at 0.0508 1.401535) (layer "B.SilkS")
+    (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
+    (tstamp 5403dead-4c2d-49ee-8e9e-e09bd6b38118)
   )
   (fp_line (start 1.778 0.762) (end 1.778 -0.762) (layer "F.SilkS") (width 0.15) (tstamp 05445c1b-cd7d-4545-8022-a2a3a37cdcbe))
   (fp_line (start 1.905 0.762) (end 1.905 -0.762) (layer "F.SilkS") (width 0.15) (tstamp 07204b03-9793-4a50-ac6e-9954f10fd460))
