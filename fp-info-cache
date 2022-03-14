@@ -1,4 +1,4 @@
-20505601561878752
+20507248915017546
 Alps_Only
 ALPS-1.5U
 
@@ -77267,6 +77267,13 @@ MX-Alps-Choc-2U
 2
 ProjectLocal
 Mini_DC_Motor
+
+
+0
+2
+2
+ProjectLocal
+ResetSW
 
 
 0
